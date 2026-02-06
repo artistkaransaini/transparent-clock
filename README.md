@@ -1,2 +1,2 @@
 # transparent-clock
-a cool digital clock
+A cool digital clock
