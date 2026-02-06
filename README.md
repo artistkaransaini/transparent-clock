@@ -1,4 +1,4 @@
-# Transparent Van Gogh clock
+# Transparent Starry Night clock
 
 ## HARDWARE STUFF
 * **brain:** esp32 (coz of the built-in wifi)
