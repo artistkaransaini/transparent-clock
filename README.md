@@ -19,3 +19,8 @@ the display is usualy horizontal but i wanted it vertical to look cooler on a de
 
 ### 3. the one button
 i didnt want a bunch of menus or setings. there is literaly just one physical button. it works as a hard power toggle. if you want the time, you turn it on. if you want it off, you click it thats cuz i want that artwork to be the hero (or lets say i know i will mess it up if i tried anything sophisticated).
+
+---
+
+Thats the masterpiece that i am gonna paint on it.
+<img width="1201" height="925" alt="Screenshot from 2026-02-06 23-47-59" src="https://github.com/user-attachments/assets/0e5f4edc-5044-4868-8c9d-37b84dab0ab4" />
